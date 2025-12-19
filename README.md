@@ -2,19 +2,19 @@
 Short, clear description of what your project does and why it exists.
 
 ## Features
--3D projection on a 2D surface
--Rotation of points in a 3D environment
+-3D projection on a 2D surface 
+-Rotation of points in a 3D environment 
 
 ## Tech Stack
--Python
--pygame
--numpy
+-Python 
+-pygame 
+-numpy 
 
 ## Installation
 ### Prerequisites
--python version 3.13.0 or later
--pygame version 2.5.5 or later
--numpy  version 2.3.5 or later
+-python version 3.13.0 or later 
+-pygame version 2.5.5 or later 
+-numpy  version 2.3.5 or later 
 
 ### Steps
 '''bash
